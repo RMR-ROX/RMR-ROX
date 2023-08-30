@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @RMR-ROX
+- 👋 Hi, I’m Riddhiman Roy
 - 👀 I’m interested in ...CODING , WEB DEVELOPMENT AND AN AI/ML ENTHUSIAST 
 - 🌱 I’m currently learning ...DSA IN C++ AND WEB DEVELOPMENT 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... PROJECT ON WEBDEV
 - 📫 How to reach me ...
 
 <!---
